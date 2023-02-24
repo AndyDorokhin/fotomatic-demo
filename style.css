@@ -64,8 +64,7 @@ html {
   }
   
   nav li:hover {
-    color:azure;
-    background-color: #4a4a4a;    
+    color: #9dc20b;
   }
 
   nav a {
