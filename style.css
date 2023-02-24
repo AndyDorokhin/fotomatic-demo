@@ -63,10 +63,6 @@ html {
     padding-left: 3.5rem;
   }
   
-  nav li:hover {
-    color: #9dc20b;
-  }
-
   nav a {
     vertical-align: bottom;
     line-height: 1.6;
